@@ -15,15 +15,6 @@ A minimal vue typescript admin template with element-ui & axios & svgicon & perm
 
 [Docs](https://armour.github.io/vue-typescript-admin-docs)
 
-## Live demo
-
-[Demo](https://burningmyself.github.io/vue-typescript-admin-template)
-
-
-## Screenshots
-
-![demo](./demo/demo.png)
-
 ## Related Project
 
 [BurningMyself/vue-typescript-admin-mock-server](https://github.com/BurningMyself/vue-typescript-admin-mock-server) (mock server for this project)
