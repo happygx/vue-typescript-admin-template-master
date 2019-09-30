@@ -15,14 +15,6 @@
 
 [文档](https://armour.github.io/vue-typescript-admin-docs/zh)
 
-## 线上地址
-
-[示例](https://burningmyself.github.io/vue-typescript-admin-template)
-
-## 截图/动图
-
-![demo](./demo/demo.png)
-
 ## 相关项目
 
 [BurningMyself/vue-typescript-admin-mock-server](https://github.com/BurningMyself/vue-typescript-admin-mock-server) (Mock 服务器)
